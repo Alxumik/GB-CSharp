@@ -1,4 +1,4 @@
-﻿Console.Write("Введите трёхначное число: ");
+﻿Console.Write("Введите трёхзначное число: ");
 string N = Console.ReadLine();
 int n = System.Convert.ToInt32(N);
 
